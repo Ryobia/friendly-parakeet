@@ -60,7 +60,6 @@ function generatePassword(password) {
   }
   else {
   window.alert("Error: Please enter a number between 8 and 128");
-  generatePassword();
   }
 
  return password;
